@@ -1,0 +1,51 @@
+html,
+* {
+	text-decoration: none;
+	list-style: none;
+}
+body {
+	min-width: 320px;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.8rem;
+	font-weight: 300;
+}
+body {
+	background: #f8f8f8;
+	color: #333;
+}
+body {
+	line-height: 1;
+}
+html,
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	display: block;
+	margin: 8px;
+}
+html {
+	font-size: 62.5%;
+}
+header {
+	border: solid 5px red;
+}
+#logo {
+	border: solid 3px black;
+}
+.parteArriba {
+	border: solid 5px green;
+}
+.parteAbajo {
+	border: solid 5px orange;
+}
+footer {
+	border: solid 5px gray;
+}
+.index_porfolio_primary_item {
+	border: solid 5px blue;
+}
