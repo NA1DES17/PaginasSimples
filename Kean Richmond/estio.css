@@ -67,9 +67,9 @@ article p {
 h4 {
 	text-align: center;
 }
-.up {
-	/* 	border: solid blueviolet 3px; */
-}
+/*.up {
+	 	border: solid blueviolet 3px; 
+}*/
 .clearfix {
 	clear: both;
 }
