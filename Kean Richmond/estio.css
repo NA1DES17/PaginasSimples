@@ -8,21 +8,21 @@
 	letter-spacing: 0.3rem;
 }
 #conteiner {
-	max-width: 1330px;
+	max-width: 83.125rem;
 	/* border: solid red; */
 	margin: 0px auto;
 }
 #header_conteiner {
 	/* border: solid black 3px; */
-	height: 83.44px;
+	height: 5.215rem;
 }
 /* header {
 	line-height: 83.44px;
 } */
 .article {
-	border: solid green 3px;
-	width: 410px;
-	height: 440px;
+	border: solid green 0.1875rem;
+	width: 25.625rem;
+	height: 27.5rem;
 	background: white;
 }
 .article h4,
@@ -38,28 +38,28 @@ footer {
 #logo {
 	float: left;
 	margin-right: 65%;
-	line-height: 43.44px;
-	padding: 7px 14px 6px 14px;
+	line-height: 2.715rem;
+	padding: 0.4375rem 0.875rem 0.375rem 0.875rem;
 	text-transform: uppercase;
 	font-weight: 400;
 }
 header h2 {
-	margin-top: 15px;
+	margin-top: 0.9375rem;
 	border: solid black;
-	height: 40px;
+	height: 2.5rem;
 }
 
 nav ul li {
 	float: left;
-	margin: 10px;
+	margin: 0.625rem;
 	/* 	border: solid pink 3px; */
 	margin-top: 0.3%;
 	/* 	background-color: blue; */
-	line-height: 75px;
+	line-height: 4.6875rem;
 }
 div section article {
 	float: left;
-	margin: 13px;
+	margin: 0.8125rem;
 }
 article p {
 	text-align: center;
@@ -68,12 +68,12 @@ h4 {
 	text-align: center;
 }
 /*.up {
-	 	border: solid blueviolet 3px; 
+	border: solid blueviolet 3px; 
 }*/
 .clearfix {
 	clear: both;
 }
 img {
-	height: 25px;
-	width: 25px;
+	height: 1.5625rem;
+	width: 1.5625rem;
 }
