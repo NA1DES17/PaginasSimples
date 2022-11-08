@@ -28,9 +28,11 @@
 .article h4,
 h4 a,
 p,
-p a {
+p a,
+.logos {
 	background: white;
 }
+
 footer {
 	text-align: center;
 	/* border: solid 3px blue; */
@@ -47,6 +49,7 @@ header h2 {
 	margin-top: 0.9375rem;
 	border: solid black;
 	height: 2.5rem;
+	margin-bottom: 5.625rem;
 }
 
 nav ul li {
@@ -67,13 +70,27 @@ article p {
 h4 {
 	text-align: center;
 }
-/*.up {
-	border: solid blueviolet 3px; 
-}*/
+.up h1 {
+	margin-top: 5.625rem;
+	margin-bottom: 0.9375rem;
+}
+.up h2 {
+	/* border: solid blueviolet 3px; */
+	margin-top: 0.9375rem;
+	margin-bottom: 5.625rem;
+}
+div h3 {
+	margin-top: 5.625rem;
+}
 .clearfix {
 	clear: both;
 }
 img {
 	height: 1.5625rem;
 	width: 1.5625rem;
+}
+.logos {
+	/*border: solid red;*/
+	width: 18.0125rem;
+	height: 11.25rem;
 }
